@@ -109,3 +109,13 @@ p{
                 font-size: 40px;
                 }
                 }  
+.contacto {
+    margin: 20px;
+  }
+
+  .contacto p {
+    margin-bottom: 10px;
+  }
+.greeting {
+    text-align: center;
+    }
