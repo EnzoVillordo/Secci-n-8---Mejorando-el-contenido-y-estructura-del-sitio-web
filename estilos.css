@@ -10,10 +10,23 @@ h1{
 p{
     font-family:'lato';
     font-size:25px;
-    padding:20px;
+    padding:25px;
     margin:15px;
     text-align:center;
 }
+li{
+    font-family:'lato';
+    font-size:25px;
+    text-align:center;
+}
+
+.greeting{
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+
 .container {
     max-width: 1200px;
     margin:auto;
