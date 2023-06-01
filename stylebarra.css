@@ -104,7 +104,7 @@ footer {
                 }
                 @media (max-widht: 767px) {
                     nav {
-                        font-size: 16px;
+                        font-size: 10px;
                     }
                 }
                 @media (min-widht: 1200px) {

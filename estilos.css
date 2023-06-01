@@ -16,7 +16,7 @@ p{
 }
 li{
     font-family:'lato';
-    font-size:25px;
+    font-size:15px;
     text-align:center;
 }
 
@@ -129,6 +129,3 @@ li{
   .contacto p {
     margin-bottom: 10px;
   }
-.greeting {
-    text-align: center;
-    }
